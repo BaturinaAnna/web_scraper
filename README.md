@@ -1,3 +1,2 @@
 # Web_scraper
-Веб-скрапер, по IATA-кодам пунктов отправления и назначения, дате вылета и дате прилета(опционально) находит билеты на сайте авиакомпании https://www.airblue.com/
-В случае если для заданных машрута и дат найдены результаты, приложение выводит информацию о полётах: все варианты перелетов, включающие точное время вылета и прилёта, длительность перелёта и цены с указанием валюты и класса.
+The web scraper finds tickets on the airline's website https://www.airblue.com/ by the IATA codes of departure and destination points, departure date and arrival date (optional). If results are found for the specified route and dates, the application displays information about flights: all flight options, including the exact time of departure and arrival, duration of the flight and prices with indication of currency and class. 
